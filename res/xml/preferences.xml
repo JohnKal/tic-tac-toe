@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <SwitchPreference 
+        android:key="music"
+        android:title="@string/settings_sounds" 
+        android:defaultValue="true"/>
+
+</PreferenceScreen>

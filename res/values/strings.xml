@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="empty_value"> </string>
+    
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_clear_stats">Clear Stats</string>
+    <string name="action_help">Help</string>
+	<string name="desc">image_button</string>
+    <string name="menu_action_start_new_game">Start new Game</string>
+    <string name="settings">Settings</string>
+    <string name="settings_sounds">Sounds</string>
+    <string name="end_game_title">End Game</string>
+    <string name="end_game_message_win">You win!!! Play Again!</string>
+    <string name="string_ok">OK</string>
+    <string name="string_cancel">Cancel</string>
+    <string name="exit">Exit</string>
+    <string name="red_pastel">#ff6961</string>
+    <string name="imagv_desc">MenuItemImage</string>
+    <string name="action_exit">Exit</string>
+    
+</resources>

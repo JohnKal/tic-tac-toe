@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color
+        name="red_pastel"
+        >#ff6961</color>
+    <color name="list_blue_selected">#A9CBDE</color>
+</resources>
